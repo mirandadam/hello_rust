@@ -5,3 +5,5 @@ version = "0.0.1"
 authors = [ "Daniel Araújo Miranda <mirandadam@users.noreply.github.com>"]
 
 [dependencies]
+
+rand = "0.3.14"
